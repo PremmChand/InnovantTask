@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base Theme -->
+    <style name="Base.Theme.InnovantApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Ensure status bar is visible -->
+        <item name="android:windowFullscreen">false</item>
+
+        <!-- Transparent status bar (or use a color like ?attr/colorPrimary) -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+        <!-- Show dark icons on light status bar -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- App Theme -->
+    <style name="Theme.InnovantApp" parent="Base.Theme.InnovantApp" />
+</resources>
