@@ -17,8 +17,8 @@ This app is built using **Kotlin**, **MVVM architecture**, and **Retrofit** to f
 ## 📸 Screenshots
 
 | ![](assets/images/home.png) | ![](assets/images/home1.png) | ![](assets/images/home2.png) | ![](assets/images/add.png) |
-|:----------------------------:|:-----------------------------:|:-----------------------------:|:---------------------------:|
-| Home Screen                 | Product List                 | Product Detail               | Add Product                |
+|:----------------------------:|:----------------------------:|:-----------------------------:|:---------------------------:|
+| Home Screen                 |         Product List         | Product Detail               | Add Product                |
 
 ---
 
